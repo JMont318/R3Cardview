@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">nuevoCardView</string>
+    <string name="txt1">establecimiento elegido por un vendedorpara exhibir sus productos o proporcionar información de los servicios que ofrece</string>
+    <string name="txt2"> sitio web diseñado especialmente para vender productos u ofrecer servicios.</string>
+</resources>
